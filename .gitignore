@@ -1,3 +1,9 @@
+# This is an adapted version of the default Python .gitignore from GitHub
+# It may ignore files that are not present in the repo due to generic structure
+# Custom files to be ignored are added at the top
+
+# Custom files
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
